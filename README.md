@@ -1,9 +1,5 @@
 # IMDB Movie Dataset Analysis — Power BI Dashboard
 
-![Dashboard Preview](IMDB%20Dashbord.png)
-
----
-
  Project Overview
 
 This project analyses **10,000+ movies** from the IMDB dataset (2005–2024) to uncover trends in genre popularity, audience ratings, movie runtime, and production volume over time.
