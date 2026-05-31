@@ -1,10 +1,10 @@
-# 🎬 IMDB Movie Dataset Analysis — Power BI Dashboard
+# IMDB Movie Dataset Analysis — Power BI Dashboard
 
 ![Dashboard Preview](IMDB%20Dashbord.png)
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 
 This project analyses **10,000+ movies** from the IMDB dataset (2005–2024) to uncover trends in genre popularity, audience ratings, movie runtime, and production volume over time.
 
@@ -12,7 +12,7 @@ The goal was to transform raw movie data into a clean, interactive Power BI dash
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 - Which genres produce the most movies?
 - How has movie production volume changed year over year?
@@ -22,7 +22,7 @@ The goal was to transform raw movie data into a clean, interactive Power BI dash
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 | Metric | Value |
 |---|---|
@@ -33,11 +33,11 @@ The goal was to transform raw movie data into a clean, interactive Power BI dash
 | Overall Average Rating | 6.26 |
 
 ### Visuals Included
-- 📈 **No. of Movies Over Years** — Bar chart showing production growth trends
-- 🎭 **Number of Movies by Genre** — Horizontal bar chart ranking genres by volume
-- ⭐ **Distribution of Movies by Rating** — Bell curve showing rating spread
-- ⏱️ **Number of Movies by Runtime** — Distribution of film lengths
-- 🏆 **Number of Movies by Primary Genre** — Genre breakdown by dominant category
+-  **No. of Movies Over Years** — Bar chart showing production growth trends
+-  **Number of Movies by Genre** — Horizontal bar chart ranking genres by volume
+- **Distribution of Movies by Rating** — Bell curve showing rating spread
+-  **Number of Movies by Runtime** — Distribution of film lengths
+-  **Number of Movies by Primary Genre** — Genre breakdown by dominant category
 
 ---
 
@@ -53,7 +53,7 @@ The goal was to transform raw movie data into a clean, interactive Power BI dash
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Documentary and Drama** are the most produced genres, significantly ahead of Comedy and Horror
 2. **Movie production grew steadily** from 2010 to 2024, peaking around 2019–2022
