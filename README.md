@@ -70,12 +70,4 @@ The goal was to transform raw movie data into a clean, interactive Power BI dash
 - SQL Server
 - Microsoft Excel
 
----
 
-## 👩‍💻 About
-
-**Lovely Karr** — Data Analyst based in Christchurch, New Zealand  
-📧 lovelyanalyticsnz@gmail.com  
-🔗 [GitHub Profile](https://github.com/lovelyanalyticsnz)
-
-*Completed as part of a Data Visualisation & Business Intelligence micro-credential — University of Auckland.*
