@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyses 10,000+ movies from the IMDb dataset (2005–2024) to uncover trends in genre popularity, audience ratings, movie runtime, and production volume over time.
 
@@ -13,7 +13,7 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 
 - Which genres produce the most movies?
 - How has movie production volume changed year over year?
@@ -23,7 +23,7 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 
 ---
 
-## 📊 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -36,7 +36,7 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 1. Documentary and Drama are the most produced genres — significantly ahead of Comedy and Horror
 2. Movie production grew steadily from 2010 to 2024, peaking around 2019–2022
@@ -47,7 +47,7 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 
 ---
 
-## 🗂️ Dashboard Pages
+##  Dashboard Pages
 
 | Dashboard | Visual Type | What It Shows |
 |---|---|---|
@@ -60,7 +60,7 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -70,15 +70,6 @@ I used SQL to extract and query the raw data, then built an interactive Power BI
 | SQL | Data extraction and initial exploration |
 | Microsoft Excel | Supporting data review |
 
----
-
-## 📁 Repository Contents
-
-| File | Description |
-|---|---|
-| IMDB Analysis Dashboard.jpg | Main dashboard screenshot |
-| IMDB Overview Dashboard.jpg | Overview page screenshot |
-| Assignment_3_Visualisation.pbix | Full Power BI file (download to explore) |
 
 
 
